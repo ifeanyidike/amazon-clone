@@ -8,10 +8,9 @@ Some libraries to be used:
 
 ### `Material UI`
 ### `React Router DOM.`
-### `React Slideshow Image`
-### `Redux`
-### `React Redux`
-### `Redux Thunk, etc.`
+### `React Bootstrap`
+### `React Context AI`
+### `React Carousel`
 
 ## Firebase (BackEnd)
 
