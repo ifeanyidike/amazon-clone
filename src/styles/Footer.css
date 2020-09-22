@@ -1,0 +1,19 @@
+.footer {
+  color: #ddd;
+  background-color: #0f1111;
+  display: flex;
+  justify-content: center;
+  font-size: 12px;
+  line-height: 18px;
+  font-weight: 400;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+p {
+  padding-right: 15px;
+}
+
+p:last-child {
+  color: #999;
+}

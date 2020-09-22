@@ -1,0 +1,26 @@
+.scrollTop {
+  width: 100%;
+  bottom: 20px;
+  align-items: center;
+  height: 50px;
+  justify-content: center;
+  z-index: 1000;
+  cursor: pointer;
+  animation: fadeIn 0.3s;
+  transition: opacity 0.4s;
+
+  background-color: #3b4855;
+}
+
+.scrollTop > p {
+  font-size: 13px;
+  line-height: 19px;
+  color: #fff;
+  font-weight: 400;
+  text-align: center;
+  padding-top: 18px;
+}
+
+.scrollTop:hover {
+  background-color: #485769;
+}

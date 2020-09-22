@@ -1,0 +1,34 @@
+.horizontalslider {
+  background-color: #fff;
+  padding: 20px;
+  margin: 0 20px 20px;
+}
+
+.horizontalslider__title {
+  display: flex;
+  text-align: center;
+}
+
+.horizontalslider__title__link {
+  padding-top: 5px !important;
+  font-size: 13px;
+  margin-left: 10px;
+}
+
+.horizontalslider__btnContainer {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 25px;
+}
+
+.horizontalslider__button {
+  background-color: #f3d079 !important;
+  box-shadow: none;
+  text-transform: none !important;
+  font-size: 13px;
+  padding: 6px 12px;
+  border: 1px solid #523d08 !important;
+  line-height: 29px;
+  color: #111111;
+  font-weight: 400;
+}

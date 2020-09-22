@@ -1,0 +1,12 @@
+.carousel {
+  height: 200px;
+  z-index: -1;
+}
+.carousel__next {
+  color: #000;
+  font-size: 50px !important;
+}
+.carousel__prev {
+  color: #000;
+  font-size: 50px !important;
+}
